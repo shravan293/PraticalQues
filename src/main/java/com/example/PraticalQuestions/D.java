@@ -10,8 +10,10 @@ public class D {
 		System.out.println("high proprity");
 	}
 	
-	
-	
 	public static void prog3333(){
 		System.out.println(" most high proprity");
+	}
+	public static void prog3() {
+		System.out.println("check hold");
+	}
 }
