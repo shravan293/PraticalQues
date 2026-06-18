@@ -8,8 +8,7 @@ public class D {
 	
 	public static void prog2() {
 		System.out.println("high proprity");
-	}
-	
+	}	
 	public static void prog3333(){
 		System.out.println(" most high proprity");
 	}
